@@ -1,0 +1,6 @@
+gpring:
+  application:
+    name: greet-grpc-server
+grpc:
+  server:
+    port: 9091
